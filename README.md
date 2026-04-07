@@ -15,6 +15,7 @@
 - 🔷 **[prisma-generate-uml](https://github.com/AbianS/prisma-generate-uml)** - VSCode extension to generate UML from Prisma schema
 - ⚡ **[rproxy](https://github.com/AbianS/rproxy)** - Minimal reverse proxy in Rust — faster than nginx, 4x less memory
 - 🐛 **[rustrak](https://github.com/AbianS/rustrak)** - Ultra-lightweight error tracking, Sentry SDK compatible
+- 💻 **[upslim](https://github.com/AbianS/upslim)** - Lightweight uptime monitor built in Rust
 - 🧠 **[code-recall](https://github.com/AbianS/code-recall)** - MCP server for semantic memory and code analysis
 - 🔄 **[zustand-debounce](https://github.com/AbianS/zustand-debounce)** - Zustand extension with debounced JSON persistence
 - 🛡️ **[safetry](https://github.com/AbianS/safetry)** - TypeScript library for safe error handling with Result types
